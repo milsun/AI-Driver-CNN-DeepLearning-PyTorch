@@ -66,7 +66,7 @@ Below fig shows architecture used in the project.
 ### Training loss vs Validation loss
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/milsun/AI-Driver-CNN-DeepLearning-PyTorch/master/images/loss.png" width="90%">
+  <img src="https://raw.githubusercontent.com/milsun/AI-Driver-CNN-DeepLearning-PyTorch/master/images/loss.png" width="50%">
   <p>Training loss vs Validation loss (generalized)</p>
 </div>
 
